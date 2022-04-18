@@ -7,8 +7,8 @@ Links:
 Heroku App: https://im-test-baez.herokuapp.com/
 
 API Documentation : 
- 1. Swagger: https://im-test-baez.herokuapp.com/docs
- 2. ReDoc: https://im-test-baez.herokuapp.com/redoc
+ 1. [ReDoc:](https://im-test-baez.herokuapp.com/redoc) 
+ 2. [Swagger:](https://im-test-baez.herokuapp.com/docs)
 
 Postman Collection: 
   1. [Postman Collection](https://www.postman.com/science-astronaut-80467714/workspace/im-test-baez/collection/20549891-c8d89fe8-1138-4766-9c39-ce322cd4835d?action=share&creator=20549891)
