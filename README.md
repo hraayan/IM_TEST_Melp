@@ -1,13 +1,17 @@
-# Test para Intelimetrica, caso MELP  . Api Python, Heroku deployment
+# Test para Intelimetrica, caso MELP  
+## Api Python, Heroku deployment
 
---update HerokuApp Out of Deploying Service
 
-#
 Links:
 
-API Documentation : https://melp-hbaez.herokuapp.com/docs
+Heroku App: https://im-test-baez.herokuapp.com/
+
+API Documentation : 
+ 1. Swagger: https://im-test-baez.herokuapp.com/docs
+ 2. ReDoc: https://im-test-baez.herokuapp.com/redoc
 
 Postman Collection: 
+  1. [Postman Collection](https://www.postman.com/science-astronaut-80467714/workspace/im-test-baez/collection/20549891-c8d89fe8-1138-4766-9c39-ce322cd4835d?action=share&creator=20549891)
 
 ##
 
@@ -19,4 +23,4 @@ Postman Collection:
 
   `pip3 install -r requirements.txt`
   
-  4. Correr la app con el comando: `uvicorn main:app --reload`
+  4. Correr la app con el comando: `uvicorn src.main:app --reload`
